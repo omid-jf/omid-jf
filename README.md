@@ -11,7 +11,7 @@ I am a Senior Data Scientist.
 ---
 
 ### 🔥 &nbsp; My Stats :
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=omid-jf&layout=compact&langs_count=10)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omid-jf&show_icons=true&hide_rank=true&include_all_commits=true)
+![Most Used Languages](https://my-github-stats-iota.vercel.app/api/top-langs?username=omid-jf&layout=compact&langs_count=10)
+![GitHub Stats](https://my-github-stats-iota.vercel.app/api?username=omid-jf&show_icons=true&hide_rank=true&include_all_commits=true)
 
 ---
