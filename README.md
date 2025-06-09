@@ -4,7 +4,7 @@
 
 ### 👨‍💻 &nbsp;About Me :
 
-I am a Senior Data Scientist.
+I am a Senior Software Engineer.
 
 - Connect with me: <a href="https://linkedin.com/in/omidjafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="15" /></a>
 
